@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/LiJie298/LiJie298.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+	开发语言：精通java，熟悉python，c++ ; 
+	熟悉oracle，使用过mysql，正在了解redis;
+	能够在windows,linux系统下搭建测试环境;
+	网络知识：熟悉网络基础知识，了解OSI模型和TCP/IP协议； 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+毕业院校：	山西大学
+最高学历：	本科	毕业日期：	2016-06
+所学专业：	软件工程	
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+职业技能
 
-```markdown
-Syntax highlighted code block
+1.	熟悉掌握JavaWeb开发知识
+2.	熟悉Python语言，可以相关编写脚本
+3.	熟悉Linux部署，熟悉Linux常用命令
+4.	熟悉angularJS，jquery，JavaScript脚本语言 
+5.	熟悉Guice，Jersey，Jetty等相关技术
+6.	了解Oracle，Mysql关系型数据库，正在了解Redis非关系型数据库
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+自我评价
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LiJie298/LiJie298.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1、谦虚、谨慎而富有挑战精神，责任心较强 
+2、 对知识的吸收，学习比较快 
+3、 有良好的环境适应能力，可以较快的融入到一个新环境 
+4、 富有团队精神，善于倾听并吸取别人的意见 
+5、 有较强的组织协调能力、以及现场应变能力
+6、 富有高度的责任心和事业心！追求实干，崇尚敬业！
