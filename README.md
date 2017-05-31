@@ -1,3 +1,5 @@
+李杰-个人简历
+
 1.	开发语言：精通java，熟悉python，c++ ; 
 2.	熟悉oracle，使用过mysql，正在了解redis;
 3.	能够在windows,linux系统下搭建测试环境;
